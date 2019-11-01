@@ -1,42 +1,42 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://blog.stdin.in/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/post/helloworld/</loc>
+    <loc>http://blog.stdin.in/post/helloworld/</loc>
     <lastmod>2019-11-01T14:23:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://blog.stdin.in/post/</loc>
     <lastmod>2019-11-01T14:23:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://blog.stdin.in/</loc>
     <lastmod>2019-11-01T14:23:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://blog.stdin.in/about/</loc>
     <lastmod>2019-11-01T14:02:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://blog.stdin.in/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://blog.stdin.in/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
